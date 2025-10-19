@@ -130,7 +130,7 @@ function App() {
 
 	return (
 		<div className="container">
-			<h2>Onboarding App</h2>
+			<h2>Amalgamic_Assignment</h2>
 			{message && <div className="message">{message}</div>}
 
 			{step === "signup" && (
